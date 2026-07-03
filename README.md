@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/e8a82b8e-da8e-4899-ae79-1e0704c663d5
 ## 🧭 AI Tech Stack Recommender — Advanced Edition
 
 Content-Based Filtering · TF-IDF · Cosine Similarity · Fuzzy Matching · Explainable AI
@@ -5,19 +7,20 @@ Content-Based Filtering · TF-IDF · Cosine Similarity · Fuzzy Matching · Expl
 DecodeLabs Industrial Training Program — Project 3 — Batch 2026
 
 ## Project Screenshots
-<img width="1918" height="822" alt="image" src="https://github.com/user-attachments/assets/c20cd29a-227a-4c2d-b398-857d21f9a7ba" />
 
 
+https://github.com/user-attachments/assets/8b7de73c-b743-4c9e-83e7-ac29738a593a
 
 
+https://github.com/user-attachments/assets/de1d5412-6775-4e50-830a-3e2833f44fb8
 
 
+https://github.com/user-attachments/assets/97adb121-670f-41b0-a708-e53503147966
 
-![Uploading image.png…]()
 
-![Uploading image.png…]()
+https://github.com/user-attachments/assets/c6047069-a749-4f7f-8144-29529e9bfe56
 
-![Uploading image.png…]()
+<img width="1842" height="777" alt="image" src="https://github.com/user-attachments/assets/ad743c85-f705-43ed-9338-b460523aac1f" />
 
 
 ## 📌 Overview
