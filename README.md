@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/e8a82b8e-da8e-4899-ae79-1e0704c663d5
 ## 🧭 AI Tech Stack Recommender — Advanced Edition
 
 Content-Based Filtering · TF-IDF · Cosine Similarity · Fuzzy Matching · Explainable AI
@@ -8,8 +6,7 @@ DecodeLabs Industrial Training Program — Project 3 — Batch 2026
 
 ## Project Screenshots
 
-
-https://github.com/user-attachments/assets/8b7de73c-b743-4c9e-83e7-ac29738a593a
+https://github.com/user-attachments/assets/a8440b52-c853-4cd2-a3ec-53db41eac267
 
 
 https://github.com/user-attachments/assets/de1d5412-6775-4e50-830a-3e2833f44fb8
