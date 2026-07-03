@@ -1,0 +1,125 @@
+{
+  "Aspiring Data Scientist": {
+    "input_skills": [
+      "Python",
+      "Machine Learning",
+      "Statistics",
+      "SQL"
+    ],
+    "recommendations": [
+      {
+        "role": "Data Scientist",
+        "category": "Data & AI",
+        "skills": "Python, SQL, Machine Learning, Statistics, Data Analysis, Pandas, NumPy, Data Visualization",
+        "match_score": 0.5866,
+        "match_percent": 58.7
+      },
+      {
+        "role": "Machine Learning Engineer",
+        "category": "Data & AI",
+        "skills": "Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, MLOps, Docker, Cloud",
+        "match_score": 0.4641,
+        "match_percent": 46.4
+      },
+      {
+        "role": "AI Research Scientist",
+        "category": "Data & AI",
+        "skills": "Python, Deep Learning, Machine Learning, Research, PyTorch, Mathematics, NLP, Computer Vision",
+        "match_score": 0.4209,
+        "match_percent": 42.1
+      }
+    ]
+  },
+  "Cloud-focused Engineer": {
+    "input_skills": [
+      "Python",
+      "Cloud Computing",
+      "Automation"
+    ],
+    "recommendations": [
+      {
+        "role": "System Administrator",
+        "category": "Cloud & Infrastructure",
+        "skills": "Linux, Networking, Windows Server, Scripting, Security, Automation, Cloud",
+        "match_score": 0.3764,
+        "match_percent": 37.6
+      },
+      {
+        "role": "Cloud Architect",
+        "category": "Cloud & Infrastructure",
+        "skills": "AWS, Azure, Cloud, System Design, Networking, Security, Terraform, Automation",
+        "match_score": 0.3519,
+        "match_percent": 35.2
+      },
+      {
+        "role": "Site Reliability Engineer",
+        "category": "Cloud & Infrastructure",
+        "skills": "Linux, Automation, Monitoring, Kubernetes, Docker, Scripting, Cloud, CI/CD",
+        "match_score": 0.3516,
+        "match_percent": 35.2
+      }
+    ]
+  },
+  "Frontend-leaning Developer": {
+    "input_skills": [
+      "JavaScript",
+      "React",
+      "UI Design",
+      "CSS"
+    ],
+    "recommendations": [
+      {
+        "role": "Frontend Developer",
+        "category": "Software Development",
+        "skills": "JavaScript, React, HTML, CSS, UI Design, Web Design, Git, TypeScript",
+        "match_score": 0.7414,
+        "match_percent": 74.1
+      },
+      {
+        "role": "Full Stack Developer",
+        "category": "Software Development",
+        "skills": "JavaScript, React, Node.js, SQL, APIs, Git, HTML, CSS, Python",
+        "match_score": 0.5227,
+        "match_percent": 52.3
+      },
+      {
+        "role": "UI/UX Designer",
+        "category": "Design",
+        "skills": "UI Design, Figma, Web Design, User Research, Prototyping, Wireframing, Communication",
+        "match_score": 0.2611,
+        "match_percent": 26.1
+      }
+    ]
+  },
+  "Security Enthusiast": {
+    "input_skills": [
+      "Networking",
+      "Linux",
+      "Security",
+      "Scripting"
+    ],
+    "recommendations": [
+      {
+        "role": "System Administrator",
+        "category": "Cloud & Infrastructure",
+        "skills": "Linux, Networking, Windows Server, Scripting, Security, Automation, Cloud",
+        "match_score": 0.6282,
+        "match_percent": 62.8
+      },
+      {
+        "role": "Ethical Hacker",
+        "category": "Security",
+        "skills": "Penetration Testing, Networking, Security, Linux, Scripting, Cryptography, Malware Analysis",
+        "match_score": 0.5851,
+        "match_percent": 58.5
+      },
+      {
+        "role": "Cybersecurity Analyst",
+        "category": "Security",
+        "skills": "Security, Networking, Linux, Penetration Testing, Risk Assessment, Cryptography, Scripting",
+        "match_score": 0.5619,
+        "match_percent": 56.2
+      }
+    ]
+  }
+}
