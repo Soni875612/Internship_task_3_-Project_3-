@@ -6,16 +6,13 @@ DecodeLabs Industrial Training Program — Project 3 — Batch 2026
 
 ## Project Screenshots
 
-https://github.com/user-attachments/assets/a8440b52-c853-4cd2-a3ec-53db41eac267
+https://github.com/user-attachments/assets/2f5ccd7a-bc72-4f1d-868a-4853e1bf99ed
 
+https://github.com/user-attachments/assets/705c1042-02ee-4bb4-84b6-988e1220e807
 
-https://github.com/user-attachments/assets/de1d5412-6775-4e50-830a-3e2833f44fb8
+https://github.com/user-attachments/assets/ec272742-8f01-4122-8e90-5be20807719b
 
-
-https://github.com/user-attachments/assets/97adb121-670f-41b0-a708-e53503147966
-
-
-https://github.com/user-attachments/assets/c6047069-a749-4f7f-8144-29529e9bfe56
+https://github.com/user-attachments/assets/552cf534-5dec-4b8c-a033-17967f7400b6
 
 <img width="1842" height="777" alt="image" src="https://github.com/user-attachments/assets/ad743c85-f705-43ed-9338-b460523aac1f" />
 
